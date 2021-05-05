@@ -17,10 +17,10 @@ It's a list of tasks you need to complete, or things that you want to do. Most t
 
 ### Installing
 
--**git clone https://github.com/Himanshu0455349/ToDoList_V-1.0**
--**cd ToDoLsit_V-1.0**
--**npm install**
--**http://localhost:3000 or http://localhost:3000/ExampleYourList**
+- **git clone https://github.com/Himanshu0455349/ToDoList_V-1.0**
+- **cd ToDoLsit_V-1.0**
+- **npm install**
+- **http://localhost:3000 or http://localhost:3000/ExampleYourList**
 
 ### To submit a new feature or bugFix
 
