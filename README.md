@@ -17,7 +17,7 @@ It's a list of tasks you need to complete, or things that you want to do. Most t
 
 ### Installing
 
-- **git clone https://github.com/Himanshu0455349/ToDoList_V-1.0**
+- **git clone https://github.com/himanshuchauhan11/ToDoList_V-1.0**
 - **cd ToDoLsit_V-1.0**
 - **npm install**
 - **http://localhost:3000 or http://localhost:3000/ExampleYourList**
@@ -26,7 +26,7 @@ It's a list of tasks you need to complete, or things that you want to do. Most t
 
 Please contribute! There are plenty of good first issues to work on. To get started, you have to fork this repo to your own GitHub account first. Then open up a terminal on your machine and enter the following commands:
 
-- git clone https://github.com/Himanshu0455349/ToDoList_V-1.0
+- git clone https://github.com/himanshuchauhan11/ToDoList_V-1.0
 - cd ToDoLsit_V-1.0
 - npm install
 - npm start
@@ -58,5 +58,5 @@ Database-
 ## Author
 
 - Author: **Himanshu Chauhan**
-- Github:https://github.com/Himanshu0455349
+- Github:https://github.com/HimanshuChauhan11
 - Instagram:https://www.instagram.com/thakurchauhan198/
